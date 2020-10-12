@@ -18,7 +18,7 @@ Here we scrape the data from CodeChef to get all the problems which are on easy 
 Link: https://www.codechef.com/problems/easy
 
 ### Output: 
-![]('https://github.com/sreesh2411/web-scraping/blob/main/images/OUTPUT1.gif')
+![](https://github.com/sreesh2411/web-scraping/blob/main/images/OUTPUT1.gif)
 
 ## Selenium
 Selenium is a powerful tool for controlling web browsers through programs and performing browser automation. It is functional for all browsers, works on all major OS and its scripts are written in various languages i.e Python, Java, C#, etc, we will be working with Python. Selenium Tutorial covers all topics such as – WebDriver, WebElement, Unit Testing with selenium. This Python Selenium Tutorial covers Selenium from basics to advanced and professional uses.<br/><br/>
@@ -27,10 +27,10 @@ We scrape the data from StackOverflow to obtain the most voted questions on the 
 Link: https://stackoverflow.com/questions?sort=votes
 
 ### Output:
-![]('https://github.com/sreesh2411/web-scraping/blob/main/images/OUTPUT2.gif')
+![](https://github.com/sreesh2411/web-scraping/blob/main/images/OUTPUT2.gif)
 
 A chrome window pops up:
-![]('https://github.com/sreesh2411/web-scraping/blob/main/images/2020-10-12.png')
+![](https://github.com/sreesh2411/web-scraping/blob/main/images/2020-10-12.png)
 
 ## BeautifulSoup + Selenium
 We combine BeautifulSoup and Selenium both to extract data from Flipkart and get the Laptops with buyback guarantee.<br/>
