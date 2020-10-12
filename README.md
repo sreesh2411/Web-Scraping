@@ -30,6 +30,9 @@ Link: https://stackoverflow.com/questions?sort=votes
 
 ### Output:
 ![](https://github.com/sreesh2411/web-scraping/blob/main/images/OUTPUT2.gif)
+<p align="center">
+  <img src="https://github.com/sreesh2411/web-scraping/blob/main/images/OUTPUT2.gif" />
+</p>
 
 
 A chrome window pops up:
