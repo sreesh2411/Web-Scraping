@@ -33,7 +33,7 @@ Link: https://stackoverflow.com/questions?sort=votes
 ![](https://github.com/sreesh2411/web-scraping/blob/main/images/OUTPUT22.png)
 ![](https://github.com/sreesh2411/web-scraping/blob/main/images/OUTPUT23.png)
 
-A chrome window pops up:
+A chrome window pops up:<br/>
 ![](https://github.com/sreesh2411/web-scraping/blob/main/images/2020-10-12.png)
 
 
