@@ -29,10 +29,9 @@ We scrape the data from StackOverflow to obtain the most voted questions on the 
 Link: https://stackoverflow.com/questions?sort=votes
 
 ### Output:
-<p align="center">
-  <img src="https://github.com/sreesh2411/web-scraping/blob/main/images/OUTPUT2.gif" />
-</p>
-
+![](https://github.com/sreesh2411/web-scraping/blob/main/images/OUTPUT21.png)
+![](https://github.com/sreesh2411/web-scraping/blob/main/images/OUTPUT22.png)
+![](https://github.com/sreesh2411/web-scraping/blob/main/images/OUTPUT23.png)
 
 A chrome window pops up:
 ![](https://github.com/sreesh2411/web-scraping/blob/main/images/2020-10-12.png)
