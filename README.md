@@ -44,7 +44,7 @@ Link: https://www.flipkart.com/laptops/laptops~buyback-guarantee-on-laptops-/pr?
 
 ## Resources:
 1. A tutorial on BeatifulSoup by Keith Galli: https://www.youtube.com/watch?v=GjKQ6V_ViQE <br/>
-2. BeautifulSoup Documentation: https://www.youtube.com/watch?v=GjKQ6V_ViQE <br/>
+2. BeautifulSoup Documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/ <br/>
 3. A comprehensive playlist on Selenium by Tech With Tim: https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ <br/>
 4. Selenium Documentation: https://selenium-python.readthedocs.io/ <br/>
 5. Link for ChromeDriver download: https://chromedriver.chromium.org/ <br/>
