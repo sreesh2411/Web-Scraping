@@ -39,7 +39,7 @@ A chrome window pops up:
 
 
 ## BeautifulSoup + Selenium
-We combine BeautifulSoup and Selenium both to extract data from Flipkart and get the Laptops with buyback guarantee and their prices and store them in a pandas dataframe called [products.csv](https://github.com/sreesh2411/web-scraping/blob/main/products.csv).<br/><br/>
+We combine BeautifulSoup and Selenium both to extract data from Flipkart and get the Laptops with buyback guarantee and their prices and store them in a pandas dataframe called [products.csv](https://github.com/sreesh2411/web-scraping/blob/main/products.csv) (The names themselves contained the features and hence were added on).<br/><br/>
 Link: https://www.flipkart.com/laptops/laptops~buyback-guarantee-on-laptops-/pr?sid=6bo%2Cb5g
 
 ## Resources:
