@@ -14,7 +14,7 @@ Beautiful Soup is a Python library designed for quick turnaround projects like s
 • Beautiful Soup sits on top of popular Python parsers like lxml and html5lib, allowing you to try out different parsing strategies or trade speed for flexibility.
 <br/><br/>
 
-Here we scrape the data from CodeChef to get all the problems which are on easy difficulty.<br/>
+Here we scrape the data from CodeChef to get all the problems which are on easy difficulty.<br/><br/>
 Link: https://www.codechef.com/problems/easy
 
 ### Output: 
@@ -25,7 +25,7 @@ Link: https://www.codechef.com/problems/easy
 ## Selenium
 Selenium is a powerful tool for controlling web browsers through programs and performing browser automation. It is functional for all browsers, works on all major OS and its scripts are written in various languages i.e Python, Java, C#, etc, we will be working with Python. Selenium Tutorial covers all topics such as – WebDriver, WebElement, Unit Testing with selenium. This Python Selenium Tutorial covers Selenium from basics to advanced and professional uses.<br/><br/>
 
-We scrape the data from StackOverflow to obtain the most voted questions on the website.<br/>
+We scrape the data from StackOverflow to obtain the most voted questions on the website.<br/><br/>
 Link: https://stackoverflow.com/questions?sort=votes
 
 ### Output:
@@ -39,7 +39,7 @@ A chrome window pops up:
 
 
 ## BeautifulSoup + Selenium
-We combine BeautifulSoup and Selenium both to extract data from Flipkart and get the Laptops with buyback guarantee and their prices and store them in a pandas dataframe called [products.csv](https://github.com/sreesh2411/web-scraping/blob/main/products.csv).<br/>
+We combine BeautifulSoup and Selenium both to extract data from Flipkart and get the Laptops with buyback guarantee and their prices and store them in a pandas dataframe called [products.csv](https://github.com/sreesh2411/web-scraping/blob/main/products.csv).<br/><br/>
 Link: https://www.flipkart.com/laptops/laptops~buyback-guarantee-on-laptops-/pr?sid=6bo%2Cb5g
 
 ## Resources:
