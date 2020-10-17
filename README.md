@@ -23,7 +23,7 @@ Link: https://www.codechef.com/problems/easy
 </p>
 
 ## Selenium
-Selenium is a powerful tool for controlling web browsers through programs and performing browser automation. It is functional for all browsers, works on all major OS and its scripts are written in various languages i.e Python, Java, C#, etc, we will be working with Python. Selenium Tutorial covers all topics such as – WebDriver, WebElement, Unit Testing with selenium. This Python Selenium Tutorial covers Selenium from basics to advanced and professional uses.<br/><br/>
+Selenium is a powerful tool for controlling web browsers through programs and performing browser automation. It is functional for all browsers, works on all major OS and its scripts are written in various languages i.e Python, Java, C#, etc, we will be working with Python. Selenium Tutorial covers all topics such as – WebDriver, WebElement, Unit Testing with selenium.<br/><br/>
 
 We scrape the data from StackOverflow to obtain the most voted questions on the website.<br/><br/>
 Link: https://stackoverflow.com/questions?sort=votes
